@@ -1,2 +1,0 @@
-# Wheel of fortune
-
